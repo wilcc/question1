@@ -7,3 +7,7 @@ how old are you?
 32 "w"
 what is your favorite food?
 ramen "w"
+steak "d"
+do yo have any kids?
+no "dre"
+
