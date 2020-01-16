@@ -10,4 +10,6 @@ ramen "w"
 steak "d"
 do yo have any kids?
 no "dre"
-
+yes 2 to be exact "w"
+any vacation plan this year?
+no
