@@ -12,5 +12,5 @@ do yo have any kids?
 no "dre"
 yes 2 to be exact "w"
 any vacation plan this year?
-no
+no "w"
 yes "d"
